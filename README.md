@@ -7,12 +7,15 @@
 
 - 🌱 I’m currently learning **Computer Science at the Open University**
 
+- 👨‍💻 All of my projects are available at [https://omria09.github.io/](https://omria09.github.io/)
+
 - 📫 How to reach me **Omria09@gmail.com**
 
 <h2 align="left">📫 Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/omri-anidgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omri-anidgar" height="30" width="40" /></a>
 <a href="https://fb.com/omrianidgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omrianidgar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omria09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omria09" height="30" width="40" /></a>
 </p>
 </br>
 
