@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omria09&label=Profile%20views&color=0e75b6&style=flat" alt="omria09" /> </p>
 
-- 🔭 I’m currently working on [TalkToMe](https://github.com/Omria09/TalkToMe)
+- 🔭 I’m currently working on [ktzr](https://github.com/Omria09/url-shortener-fullstack)
 
-- 🌱 I’m currently learning **Computer Science at the Open University**
+- 🌱 I’m currently learning **Computer Science at the Open University** and Taking the [Full Stack Open course](https://fullstackopen.com/) by the University of Helsinki
 
 - 👨‍💻 All of my projects are available at [https://omria09.github.io/](https://omria09.github.io/)
 
-- 📫 How to reach me **Omria09@gmail.com**
+- 📫 Mail me through **Omria09@gmail.com**
 
 <h2 align="left">📫 Connect with me:</h2>
 <p align="left">
@@ -27,7 +27,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  
 <h3 align="left">Frontend Development</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -54,6 +55,7 @@
 <h3 align="left">Other</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 
 </br>
 <h2 align="left">📈 Github Stats:</h2>
