@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omri Anidgar</h1>
-<h3 align="center">A Full Stack Developer from israel</h3>
+<h3 align="center">A Full Stack Developer from Israel</h3>
 <h4 align="center">Writing code since 2016</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omria09&label=Profile%20views&color=0e75b6&style=flat" alt="omria09" /> </p>
 
