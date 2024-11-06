@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Science at the Open University** and Taking the [Full Stack Open course](https://fullstackopen.com/) by the University of Helsinki
 
-- 👨‍💻 All of my projects are available at [https://omria09.github.io/](https://omria09.github.io/)
+- 🌐 All of my projects are available at [https://omria09.github.io/](https://omria09.github.io/)
 
 - 📫 Mail me through **Omria09@gmail.com**
 
