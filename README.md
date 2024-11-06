@@ -3,6 +3,8 @@
 <h4 align="center">Writing code since 2016</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omria09&label=Profile%20views&color=0e75b6&style=flat" alt="omria09" /> </p>
 
+- 👨‍💻 Currently working on [CV Next](https://github.com/magshimim-next/cv-next) as part of [Magshimim Next](https://github.com/magshimim-next)'s team
+
 - 🌱 I’m currently learning **Computer Science at the Open University** and Taking the [Full Stack Open course](https://fullstackopen.com/) by the University of Helsinki
 
 - 👨‍💻 All of my projects are available at [https://omria09.github.io/](https://omria09.github.io/)
